@@ -1,0 +1,2 @@
+'main.txt' contains the tile data for the main map.  Note that it is an array of integers; the tiles these integers correspond to can be found in 'texture_mapper.txt'
+The line number is the texture ID, and the rectangle defined by the numbers on the line is the texture itself.

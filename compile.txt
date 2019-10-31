@@ -1,0 +1,5 @@
+g++ main.cpp -IF:\mingw_dev\include\SDL2 -LF:\mingw_dev\lib -w -lmingw32 -lSDL2main -lSDL2 -lSDL2_ttf -lSDL2_image -IF:\entt-master\src\entt -g -o main
+
+
+g++ main.cpp -I"C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\include\SDL2" -L"C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\lib" -w -lmingw32 -lSDL2main -lSDL2 -lSDL2_ttf -o main
+
